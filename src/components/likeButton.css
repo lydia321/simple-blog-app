@@ -1,0 +1,16 @@
+.like-button {
+    background-color: #23aa4e;
+    border-color: #177d37;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .like-count {
+    font-size: 14px;
+    margin-left: 10px;
+  }
